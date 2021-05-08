@@ -1,1 +1,1 @@
-# C-64
+# dictionary-offline-version-
